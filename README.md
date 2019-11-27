@@ -1,2 +1,2 @@
 # skit
-Prueba visual code
+Prueba POO
