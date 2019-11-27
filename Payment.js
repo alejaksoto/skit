@@ -1,0 +1,4 @@
+funtion Payment (){
+  this.id;
+  
+}
